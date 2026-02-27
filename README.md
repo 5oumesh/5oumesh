@@ -19,7 +19,6 @@
 
 ### 💻 Languages
 - C++
-- Java
 - Python
 
 ### 🌐 Web Development
