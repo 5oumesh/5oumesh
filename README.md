@@ -1,15 +1,14 @@
 # Hi 👋, I'm Soumesh Suman
 
 🎓 Student | 🚀 Aspiring Machine Learning Engineer  
-💡 Interested in AI, Machine Learning, Web Development & Android Development  
+💡 Interested in AI, Machine Learning & Web Development  
 
 ---
 
 ## 🌟 About Me
 
 - 🤖 Currently learning Machine Learning & Deep Learning  
-- 💻 Working with Python, Java, and C++  
-- 📱 Exploring Android Development using Kotlin  
+- 💻 Working with Python and C++  
 - 🚀 Building real-world projects to strengthen my skills  
 - 🎯 Goal: Become an industry-ready ML Engineer  
 
@@ -30,10 +29,6 @@
 - Scikit-learn
 - Matplotlib
 
-### 📱 App Development
-- Kotlin (Android)
-
----
 
 ## 🚀 Projects
 
